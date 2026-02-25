@@ -2,4 +2,5 @@ manga
 aabacaxi
 banana
 pera
+pitaya
 limao
